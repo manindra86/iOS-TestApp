@@ -17,7 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@",,,,");
+    NSLog(@"Branch 2");
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
