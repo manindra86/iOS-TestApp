@@ -17,7 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"Branch 2");
+    
+    NSLog(@"Branch 2 after push to server");
     
 	// Do any additional setup after loading the view, typically from a nib.
 }
