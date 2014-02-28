@@ -20,8 +20,12 @@
     NSLog(@"Branch 2 after push to server1");
     NSLog(@"Branch 2 after push to server2");
     NSLog(@"Branch 2 after push to server3");
-    
-    
+    NSLog(@"Branch 2 after push to server1");
+    NSLog(@"Branch 2 after push to server2");
+    NSLog(@"Branch 2 after push to server3");
+    NSLog(@"Branch 2 after push to server1");
+    NSLog(@"Branch 2 after push to server2");
+    NSLog(@"Branch 2 after push to server3");
     
     
     NSLog(@"Branch 2 after push to server");
